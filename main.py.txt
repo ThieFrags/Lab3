@@ -1,4 +1,3 @@
 A = "Hellow world"
 print(A)
 B = "goodbye user"
-print(B)
