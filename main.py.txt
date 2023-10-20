@@ -1,4 +1,5 @@
 A = "Hellow world"
-print(A)print(A)
+print(A)
 B = "goodbye user"
 print(B)
+print(A)
