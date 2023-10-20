@@ -3,3 +3,4 @@ print(A)
 B = "goodbye user"
 print(B)
 print(A)
+print(A,B)
